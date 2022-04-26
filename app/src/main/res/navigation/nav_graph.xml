@@ -10,4 +10,9 @@
         android:name="ru.jonik.diplom.Authorization"
         android:label="fragment_authorization"
         tools:layout="@layout/fragment_authorization" />
+    <fragment
+        android:id="@+id/main"
+        android:name="ru.jonik.diplom.Main"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" />
 </navigation>
